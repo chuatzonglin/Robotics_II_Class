@@ -3,6 +3,7 @@
 # LinearControl_odeint.py
 # Copyright (c) 2017 Dai Owaki <owaki@tohoku.ac.jp>
 # Revised 2019 by Dai Owaki
+# Current Version Modified by Kuroba for Robotics II HW 
 
 from scipy.integrate import odeint
 import numpy as np
