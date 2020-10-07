@@ -2,6 +2,7 @@
 
 # InvertedPendulum_odeint.py
 # Copyright (c) 2019 Dai Owaki <owaki@tohoku.ac.jp>
+# Current Version Modified by Kuroba for Robotics II HW 
 
 from scipy.integrate import odeint
 import numpy as np
