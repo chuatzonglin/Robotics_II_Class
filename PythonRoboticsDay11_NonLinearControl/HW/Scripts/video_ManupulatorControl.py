@@ -2,6 +2,7 @@
 
 # video_ManupulatorControl.py
 # Copyright (c) 2019 Dai Owaki <owaki@tohoku.ac.jp>
+# Modified by: Kuroba For Robotics II HW
 
 import matplotlib.pyplot as plt
 import numpy as np

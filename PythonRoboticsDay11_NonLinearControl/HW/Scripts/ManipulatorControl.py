@@ -2,7 +2,7 @@
 
 # ManupulatorControl_odeint.py
 # Copyright (c) 2019 Dai Owaki <owaki@tohoku.ac.jp>
-# modified for Homework Submission
+# Kuroba modified for Homework Submission
 
 from scipy.integrate import odeint
 import numpy as np

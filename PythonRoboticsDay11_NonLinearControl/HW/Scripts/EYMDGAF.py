@@ -1,3 +1,5 @@
+# @author Kuroba
+
 import numpy as np
 
 class Kinematics:
